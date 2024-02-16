@@ -1,1 +1,1 @@
-//123
+// 'codewars tasks'
